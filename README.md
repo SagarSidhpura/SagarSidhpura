@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SagarSidhpura
+- 👋 Hi, I’m @Sagar
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning python/go
 - 💞️ I’m looking to contribute to opensource projects
